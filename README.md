@@ -12,7 +12,7 @@ Follow the steps below:
 
 3 - Then type 'pip install -r requirements.txt' this will install all the needed dependencies for the application locally
 
-4 - Then type 'helloworld.py' this will start the application locally. Open http://localhost:3000 to view it in the browser.
+4 - Then type 'python app.py' this will start the application locally using your localhost
 
 The CI uses github actions to build the Dockerfile 
 The steps in the job perform the following actions:
